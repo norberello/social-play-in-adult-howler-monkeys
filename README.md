@@ -1,6 +1,6 @@
 # social play in adult howler monkeys
 <center>
-    <img src="figures/two adult males and one adult female playing.png" width="50%" alt="">
+    <img src="figures/two adult males and one adult female playing.png" width="50%" alt="" class="center">
 </center>
 <h2>
 <font size="4">
