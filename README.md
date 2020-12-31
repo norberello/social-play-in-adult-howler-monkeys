@@ -1,7 +1,7 @@
 # social play in adult howler monkeys
-<center>
+<div>
 <img src="figures/two adult males and one adult female playing.png" alt="Simply Easy Learning">
-  </center>
+  </div>
 <h3>
 <font size="4">
   R scripts and databases used to study social play in adult howler monkeys for the study 'Socioecological correlates of social play in adult howler monkeys (<i>Alouatta palliata mexicana<i/> and <i>A. p. palliata<i/>)'
