@@ -1,4 +1,5 @@
-# social play in adult howler monkeys
+# Social play in adult howler monkeys
+<center><img src="figures/two adult males and one adult female playing.png" alt="what image shows" width="50%"></center>
 <center>
     <img src="figures/two adult males and one adult female playing.png" width="50%" alt="" class="center" align="middle">
 </center>
