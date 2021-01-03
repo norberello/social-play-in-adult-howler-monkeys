@@ -4,8 +4,9 @@
 </center>
 <p>
 R scripts and databases used to study social play in adult howler monkeys for the study 'Socioecological correlates of social play in adult howler monkeys (<i>Alouatta palliata mexicana<i/> and <i>A. p. palliata<i/>)'
-<p>    
-```{r}
+<p>  
+    
+```
 #par(mar = c(bottom, left, top, right)) 
 #two plots together
 par(mar=c(5,4.5,2,1),cex.lab=2)
