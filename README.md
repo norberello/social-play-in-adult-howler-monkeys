@@ -5,7 +5,9 @@
 </center>
 <p>
 
-Two howler monkey adult males and one adult female engaging in social play    
+<p align="center">
+Image. *Two howler monkey adult males and one adult female engaging in social play* (N.Asensio)    
+<p> 
     
 <a href="https://github.com/norberello/social-play-in-adult-howler-monkeys/blob/main/social%20adult%20play%20in%20howler%20monkeys%20study%20RScripts%20.ipynb"> R scripts </a> and <a href="https://github.com/norberello/social-play-in-adult-howler-monkeys/tree/main/data"> databases </a> used to analyse social play in adult howler monkeys in the study 
 
