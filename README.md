@@ -3,10 +3,7 @@
 <p align="center">
 <img src="figures/two adult males and one adult female playing.png" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
-<p>
-
-<p style="color:blue">This is demo content.</p>    
-    
+<p>    
 <p align="center">
 Image. Two howler monkey adult males and one adult female engaging in social play (N.Asensio)    
 </p> 
