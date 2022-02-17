@@ -7,7 +7,7 @@
 
 <p style="color:blue">This is demo content.</p>    
     
-<p style="color:blue align="center">
+<p align="center">
 Image. Two howler monkey adult males and one adult female engaging in social play (N.Asensio)    
 </p> 
     
