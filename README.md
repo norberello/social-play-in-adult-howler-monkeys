@@ -25,5 +25,6 @@ Asensio, N., Zandona, E., Dunn, J.C., Cristobal-Azkarate, J. (2022). Socioecolog
 <img src="/figures/figure play and correlates.png" width="75%" alt="" class="center" align="middle" alt="figure play correlates">
 </center>
 
-
+Figure 4. (a) Coefficients (dots) and 95% confidence intervals (horizontal lines) of the GLMM explaining adulteadult play. (b) Mean fitted responses for the time engaged in adult-adult social play (expressed as percentage of observation time) by howler monkeys according to sex, the number of adults in the group, the immature to adult ratio and the percentage of time spent feeding on fruit. Group ID was a random factor: AGA: Agaltepec Island; LIZ: Arroyo Liza; PLA: Playa Escondida; CH: Charlie; CP: Cerco de piedra; SE: San
+Emilio; SN: Sendero Natural.
 
