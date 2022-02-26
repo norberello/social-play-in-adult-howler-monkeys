@@ -22,7 +22,7 @@ Image 2. Two howler monkey adult females playing hanging from tails and showing 
 Asensio, N., Zandona, E., Dunn, J.C., Cristobal-Azkarate, J. (2022). Socioecological correlates of social play in adult mantled howler monkeys, Animal Behaviour https://doi.org/10.1016/j.anbehav.2022.01.017
     
 <p align="center">
-<img src="/figures/figure play and correlates.png" width="50%" alt="" class="center" align="middle" alt="figure play correlates">
+<img src="/figures/figure play and correlates.png" width="75%" alt="" class="center" align="middle" alt="figure play correlates">
 </center>
 
 
