@@ -16,6 +16,7 @@ Image 1. Two howler monkey adult males and one adult female engaging in social p
 Image 2. Two howler monkey adult females playing hanging from tails and showing playface (N.Asensio)    
 </p> 
 
+<https://phys.org/news/2022-03-monkeys-group-tension.amp>
     
 <a href="https://github.com/norberello/social-play-in-adult-howler-monkeys/blob/main/social%20adult%20play%20in%20howler%20monkeys%20study%20RScripts%20.ipynb"> R scripts </a> and <a href="https://github.com/norberello/social-play-in-adult-howler-monkeys/tree/main/data"> data </a> used to analyse social play in adult howler monkeys in the study 
 
