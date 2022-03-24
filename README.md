@@ -16,7 +16,11 @@ Image 1. Two howler monkey adult males and one adult female engaging in social p
 Image 2. Two howler monkey adult females playing hanging from tails and showing playface (N.Asensio)    
 </p> 
 
-news:
+<p align="center">
+Image 3.  
+</p> 
+
+news:</p> 
 <https://phys.org/news/2022-03-monkeys-group-tension.amp></p> 
 <https://uk.style.yahoo.com/adult-howler-monkeys-play-keep-230000557.html></p> 
 <https://www.sciencedaily.com/releases/2022/03/220317094737.htm></p> 
