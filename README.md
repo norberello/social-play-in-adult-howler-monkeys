@@ -21,8 +21,13 @@ Image 2. Two howler monkey adult females playing hanging from tails and showing 
 </p> 
 
 <p align="center">
-Image 3.  
+<img src="WhatsApp Image 2022-02-22 at 4.20.11 PM.jpeg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+</center>
+<p>    
+<p align="center">
+Image 3. An adult female howler monkey playing with a juvenile. Note the the infant ventrally located at the female body (A. Gonzalez-Zamora)    
 </p> 
+
 
 news mentions:</p> 
 <https://phys.org/news/2022-03-monkeys-group-tension.amp></p> 
