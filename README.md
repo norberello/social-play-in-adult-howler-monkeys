@@ -57,7 +57,7 @@ Image 6. Tree adult female howler monkeys above the observer (N. Asensio)
 </center>
 <p>    
 <p align="center">
-Image 7. Two juvenile spider monkeys (Ateles geoffroyi)chasing each other at play.     
+    Image 7. Two juvenile spider monkeys (<i>Ateles geoffroyi</i>) playing to chase each other (N. Asensio).     
 </p> 
 
 news mentions:</p> 
