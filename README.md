@@ -29,7 +29,7 @@ Image 3. An adult female howler monkey playing with a juvenile. Note the the inf
 </p> 
 
 <p align="center">
-<img src="a juvenile and an infant social play.jpeg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+<img src="a juvenile and an infant social play.jpg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
 <p>    
 <p align="center">
@@ -37,7 +37,7 @@ Image 4. A juvenile and an infant howler monkeys engaged in playing (N.Asensio)
 </p> 
 
 <p align="center">
-<img src="2 adult females one adult male howler monkey biting pulling.jpeg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+<img src="2 adult females one adult male howler monkey biting pulling.jpg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
 <p>    
 <p align="center">
@@ -45,7 +45,7 @@ Image 5. An adult male and two adult female howler monkeys playing. Note pulling
 </p> 
 
 <p align="center">
-<img src="tree adult females playing agaltepec island.jpeg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+<img src="tree adult females playing agaltepec island.jpg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
 <p>    
 <p align="center">
@@ -53,7 +53,7 @@ Image 6. Tree adult female howler monkeys above the observer (N. Asensio)
 </p> 
 
 <p align="center">
-<img src="two juvenile spider monkeys playing.jpeg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+<img src="two juvenile spider monkeys playing.jpg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
 <p>    
 <p align="center">
