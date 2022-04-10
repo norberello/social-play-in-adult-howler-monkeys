@@ -37,7 +37,7 @@ Image 4. A juvenile and an infant howler monkeys engaged in playing (N.Asensio)
 </p> 
 
 <p align="center">
-<img src="2 adult females one adult male howler monkey biting pulling.jpg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+<img src="2 adult females one adult male biting pulling.jpg" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
 <p>    
 <p align="center">
