@@ -67,8 +67,18 @@ Image 7. A juvenile, and infant and an adult female of howler monkey in social p
 </center>
 <p>    
 <p align="center">
-    Image 8. Two juvenile spider monkeys (<i>Ateles geoffroyi</i>) playing to chase each other (N. Asensio).     
+    Image 8. Two juvenile spider monkeys (<i>Ateles geoffroyi</i>) chasing each other at play (N. Asensio).     
 </p> 
+
+<p align="center">
+<img src="homo sapiens playing.png" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+</center>
+<p>    
+<p align="center">
+    Image 9. An "adult" female and an "adult" male of <i>Homo sapiens</i>) playing, yes, they were playing (N. Asensio).     
+</p> 
+
+
 
 news mentions:</p> 
 <https://phys.org/news/2022-03-monkeys-group-tension.amp></p> 
