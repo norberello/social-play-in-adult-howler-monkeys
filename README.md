@@ -75,7 +75,7 @@ Image 7. A juvenile, and infant and an adult female of howler monkey in social p
 </center>
 <p>    
 <p align="center">
-    Image 9. An "adult" female and an "adult" male of <i>Homo sapiens</i>) playing, yes, they were playing (N. Asensio).     
+    Image 9. An "adult" female and an "adult" male of <i>Homo sapiens</i> playing, yes, they are playing (N. Asensio).     
 </p> 
 
 
