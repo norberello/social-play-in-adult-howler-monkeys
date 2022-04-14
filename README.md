@@ -17,7 +17,7 @@ Image 1. Two howler monkey adult males and one adult female engaging in social p
 </center>
 <p>    
 <p align="center">
-Image 2. Two howler monkey adult females playing hanging from tails and showing playface (N.Asensio)    
+Image 2. Two howler monkey adult females playing hanging from tails. Note open-mouthed play face (N.Asensio)    
 </p> 
 
 <p align="center">
