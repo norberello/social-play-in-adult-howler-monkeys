@@ -53,11 +53,19 @@ Image 6. Tree adult female howler monkeys above the observer (N. Asensio)
 </p> 
 
 <p align="center">
+<img src="play jicacal background.png" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
+</center>
+<p>    
+<p align="center">
+Image 7. A juvenile and an infant howler monkey playing in Playa Escondida (N. Asensio)     
+</p> 
+
+<p align="center">
 <img src="Play in albizia 4 copy.JPG" width="50%" alt="" class="center" align="middle" alt="howler adult monkeys playing">
 </center>
 <p>    
 <p align="center">
-Image 7. A juvenile, and infant and an adult female of howler monkey in social play (N. Asensio)     
+Image 8. A juvenile, and infant and an adult female of howler monkey in social play (N. Asensio)     
 </p> 
 
 
@@ -67,7 +75,7 @@ Image 7. A juvenile, and infant and an adult female of howler monkey in social p
 </center>
 <p>    
 <p align="center">
-    Image 8. Two juvenile spider monkeys (<i>Ateles geoffroyi</i>) chasing each other at play (N. Asensio).     
+    Image 9. Two juvenile spider monkeys (<i>Ateles geoffroyi</i>) chasing each other at play (N. Asensio).     
 </p> 
 
 <p align="center">
@@ -75,7 +83,7 @@ Image 7. A juvenile, and infant and an adult female of howler monkey in social p
 </center>
 <p>    
 <p align="center">
-    Image 9. An "adult" female and an "adult" male of <i>Homo sapiens</i> playing, yes, they are playing (N. Asensio).     
+    Image 10. An "adult" female and an "adult" male of <i>Homo sapiens</i> playing, yes, they are playing (N. Asensio).     
 </p> 
 
 
