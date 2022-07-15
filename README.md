@@ -96,8 +96,7 @@ news mentions:</p>
 <https://amubiochemicalsociety.org/monkeys-play-to-reduce-group-tension-study-finds/></p> 
 <https://scienceblog.com/528836/monkeys-play-to-reduce-group-tension-study/></p> 
 <https://www.newsbreak.com/news/2544325514441/howler-monkeys-play-to-avoid-conflict-and-reduce-group-tension-study-finds></p> 
-<https://plu.mx/plum/a/news?doi=10.1016/j.anbehav.2022.01.017&theme=plum-sciencedirect-theme&hideUsage=true> 
-    
+<https://plu.mx/plum/a/news?doi=10.1016/j.anbehav.2022.01.017&theme=plum-sciencedirect-theme&hideUsage=true> <https://www.sciencefocus.com/news/monkeys-use-playtime-to-help-resolve-conflict/>    
 
     
 <p align="center">
